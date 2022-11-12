@@ -276,6 +276,7 @@ section:nth-child(2n + 1) {
 
 .timeline-logo > img {
     width: 100%;
+    width: 50px;
 }
 
 #timeline-divider {
@@ -328,7 +329,15 @@ section:nth-child(2n + 1) {
 
 
 
+/* Education */
 
+/* .edu-logo > img { */
+    /* margin-left: -10 px; */
+    /* width: 50px; */
+    /* height: 100px; */
+    /* border-radius: 50%; */
+    /* background-color: grey; */
+/* } */
 
 
 /* Portfolio Section */
